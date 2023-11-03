@@ -1,4 +1,4 @@
-<h2><a href="https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1">Print first n Fibonacci Numbers</a></h2><h3>Difficulty Level : Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a number <strong>N,</strong> find the first N Fibonacci numbers. The first two number of the series are 1 and 1.</span></p>
+<h2><a href="https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/0">Print first n Fibonacci Numbers</a></h2><h3>Difficulty Level : Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a number <strong>N,</strong> find the first N Fibonacci numbers. The first two number of the series are 1 and 1.</span></p>
 <p><strong><span style="font-size: 18px;">Example 1:</span></strong></p>
 <pre><strong><span style="font-size: 18px;">Input:
 </span></strong><span style="font-size: 18px;">N = 5
